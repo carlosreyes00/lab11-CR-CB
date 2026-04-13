@@ -1,6 +1,6 @@
 # https://github.com/carlosreyes00/lab11-CR-CB
-# Carlos Reyes
-# Christian Boksa
+# Partner 1: Carlos Reyes
+# Partner 2: Christian Boksa
 
 import math
 
